@@ -1,6 +1,5 @@
-# YOLOv3-Object-Detection-with-OpenCV
+# Sheep detection with interface
 
-This project implements an image and video object detection classifier using pretrained yolov3 models. 
-The yolov3 models are taken from the official yolov3 paper which was released in 2018. The yolov3 implementation is from [darknet](https://github.com/pjreddie/darknet). Also, this project implements an option to perform classification real-time using the webcam.
+In this project I create a used model that detect and count each sheep in each frame then display it in graph I used yolo3 and darknet for the model also I used openCV for the pre proccesing and tkinter for the interface
 
 
